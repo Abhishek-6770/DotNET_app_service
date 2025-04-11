@@ -1,0 +1,1 @@
+[![Build and Deploy .NET App to Azure](https://github.com/Abhishek-6770/DotNET_app_service/actions/workflows/dotnet-azure-deploy.yml/badge.svg)](https://github.com/Abhishek-6770/DotNET_app_service/actions/workflows/dotnet-azure-deploy.yml)
