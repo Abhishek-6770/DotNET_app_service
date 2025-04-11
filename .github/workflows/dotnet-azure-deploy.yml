@@ -3,7 +3,7 @@ name: Build and Deploy .NET App to Azure
 on:
   push:
     branches:
-      - none
+      - main
 
 jobs:
   build-and-deploy:
