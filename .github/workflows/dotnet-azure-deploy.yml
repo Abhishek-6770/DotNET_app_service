@@ -17,7 +17,10 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: '6.0.x'
-
+        
+    - name: Check .NET SDK Version
+      run: dotnet --info
+  
     - name: Restore Dependencies
       run: dotnet restore ./SimpleDotNetApp.csproj
 
